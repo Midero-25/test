@@ -6,25 +6,25 @@
 
 ---
 
-## 📂 Materiālu struktūra
+## Materiālu struktūra
 
-### 1. 📘 Teorija
+### 1. Teorija
 * **[Datubāzu modelēšana un normalizācija (1).pdf](./Datubāzu%20modelēšana%20un%20normalizācija%20(1).pdf)**
     * ER diagrammu pamati.
     * Normalizācijas soļi un noteikumi.
 
-### 2. ⌨️ Praktiskais kods
+### 2. Praktiskais kods
 * **[db students.docx](./db%20students.docx)**
     * SQL skripti tabulu izveidei (`CREATE TABLE`) un datu aizpildei.
     * PHP piemērs datu atlasei no datubāzes.
 
-### 3. 📊 Praktiskie uzdevumi
+### 3. Praktiskie uzdevumi
 * **[Uzdevumi_normalizācija.xlsx](./Uzdevumi_normalizācija.xlsx)**
     * 7 interaktīvi uzdevumi Excel vidē datu transformēšanai.
 
 ---
 
-## 🚀 Uzstādīšana un lietošana
+## Uzstādīšana un lietošana
 
 Lai palaistu praktisko daļu (SQL/PHP):
 1.  Lejupielādējiet un palaidiet **WAMP** vai **XAMPP** serveri.
@@ -33,10 +33,10 @@ Lai palaistu praktisko daļu (SQL/PHP):
 
 ---
 
-## 🧠 Refleksija
+## Refleksija
 Nodarbības beigās studenti tiek aicināti aizpildīt refleksijas karti:
 
 ![Refleksija](./REFLEKSIJA.png)
 
 ---
-*Materiālus sagatavoja: Daniels Mēters un Sofia Lucenko (2024)*
+*Materiālus sagatavoja: Daniels Mēters un Sofia Lucenko (2026)*
