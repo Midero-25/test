@@ -31,7 +31,8 @@
 Lai palaistu praktisko daļu (SQL/PHP):
 1.  Lejupielādējiet un palaidiet **WAMP** serveri.
 2.  Importējiet SQL kodu no Word faila savā `phpMyAdmin` vidē.
-3.  Pārliecinieties, ka PHP skripts ir ievietots jūsu servera `www` vai `htdocs` mapē.
+3.  Pārliecinieties, ka PHP skripts ir ievietots jūsu servera mapē.
+4.  Servera mapē "C:\wamp64\www\student_checker" Izveidot HTML lapu, kuras skripts ir word dokumentā.
 
 ---
 
