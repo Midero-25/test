@@ -27,7 +27,7 @@
 ## Uzstādīšana un lietošana
 
 Lai palaistu praktisko daļu (SQL/PHP):
-1.  Lejupielādējiet un palaidiet **WAMP** vai **XAMPP** serveri.
+1.  Lejupielādējiet un palaidiet **WAMP** serveri.
 2.  Importējiet SQL kodu no Word faila savā `phpMyAdmin` vidē.
 3.  Pārliecinieties, ka PHP skripts ir ievietots jūsu servera `www` vai `htdocs` mapē.
 
