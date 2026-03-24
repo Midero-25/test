@@ -12,11 +12,13 @@
 * **[Datubāzu modelēšana un normalizācija (1).pdf](./Datubāzu%20modelēšana%20un%20normalizācija%20(1).pdf)**
     * ER diagrammu pamati.
     * Normalizācijas soļi un noteikumi.
+    * Uzdevumu nosacījumi un atbildes uz tiem.
 
 ### 2. Praktiskais kods
 * **[db students.docx](./db%20students.docx)**
     * SQL skripti tabulu izveidei (`CREATE TABLE`) un datu aizpildei.
     * PHP piemērs datu atlasei no datubāzes.
+    * HTML lapas skripts, kur var parbaudīt izveidotas datubāzes struktūru. 
 
 ### 3. Praktiskie uzdevumi
 * **[Uzdevumi_normalizācija.xlsx](./Uzdevumi_normalizācija.xlsx)**
